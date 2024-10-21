@@ -1,0 +1,17 @@
+# Ignore compiled class files
+*.class
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+*.iml
+
+# Ignore build directories (e.g., for Maven or Gradle)
+target/
+build/
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
